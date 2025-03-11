@@ -70,6 +70,17 @@
 			<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
 		</dependency>
 		<!-- HASTA AQUÍ -->
+		<dependency> <!-- AGREGAR ESTO PARA Config Server -->
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-config-client</artifactId>
+			<version>4.1.2</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-bootstrap</artifactId>
+			<version>4.1.3</version>
+		</dependency>
+		<!-- HASTA AQUÍ -->
 	</dependencies>
 
 	<build>
