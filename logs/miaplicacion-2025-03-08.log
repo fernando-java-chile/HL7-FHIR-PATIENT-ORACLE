@@ -1,0 +1,26 @@
+2025-03-08 00:59:12 - Starting Hl7FhirSamplesOracleApplication using Java 23.0.1 with PID 16704 (C:\CursoSpring2\MicroserviciosSpringBoot\Implementando_Discovery_Service\HL7-FHIR-SAMPLES-ORACLE\target\classes started by LENOVO in C:\CursoSpring2\MicroserviciosSpringBoot\Implementando_Discovery_Service\HL7-FHIR-SAMPLES-ORACLE)
+2025-03-08 00:59:12 - No active profile set, falling back to 1 default profile: "default"
+2025-03-08 00:59:22 - Started Hl7FhirSamplesOracleApplication in 11.098 seconds (process running for 12.524)
+2025-03-08 01:38:53 - Starting Hl7FhirSamplesOracleApplication using Java 23.0.1 with PID 12400 (C:\CursoSpring2\MicroserviciosSpringBoot\Implementando_Discovery_Service\HL7-FHIR-SAMPLES-ORACLE\target\classes started by LENOVO in C:\CursoSpring2\MicroserviciosSpringBoot\Implementando_Discovery_Service\HL7-FHIR-SAMPLES-ORACLE)
+2025-03-08 01:38:53 - No active profile set, falling back to 1 default profile: "default"
+2025-03-08 01:39:00 - Started Hl7FhirSamplesOracleApplication in 8.65 seconds (process running for 9.662)
+2025-03-08 01:40:20 - Starting Hl7FhirSamplesOracleApplication using Java 23.0.1 with PID 10640 (C:\CursoSpring2\MicroserviciosSpringBoot\Implementando_Discovery_Service\HL7-FHIR-SAMPLES-ORACLE\target\classes started by LENOVO in C:\CursoSpring2\MicroserviciosSpringBoot\Implementando_Discovery_Service\HL7-FHIR-SAMPLES-ORACLE)
+2025-03-08 01:40:20 - No active profile set, falling back to 1 default profile: "default"
+2025-03-08 01:40:27 - Started Hl7FhirSamplesOracleApplication in 7.81 seconds (process running for 8.664)
+2025-03-08 18:51:13 - Starting Hl7FhirSamplesOracleApplication using Java 23.0.1 with PID 5444 (C:\CursoSpring2\MicroserviciosSpringBoot\Implementando_Discovery_Service\HL7-FHIR-SAMPLES-ORACLE\target\classes started by LENOVO in C:\CursoSpring2\MicroserviciosSpringBoot\Implementando_Discovery_Service\HL7-FHIR-SAMPLES-ORACLE)
+2025-03-08 18:51:13 - No active profile set, falling back to 1 default profile: "default"
+2025-03-08 18:51:20 - Started Hl7FhirSamplesOracleApplication in 8.588 seconds (process running for 10.041)
+2025-03-08 20:00:51 - Starting Hl7FhirSamplesOracleApplication using Java 23.0.1 with PID 18184 (C:\CursoSpring2\MicroserviciosSpringBoot\Implementando_Discovery_Service\HL7-FHIR-SAMPLES-ORACLE\target\classes started by LENOVO in C:\CursoSpring2\MicroserviciosSpringBoot\Implementando_Discovery_Service\HL7-FHIR-SAMPLES-ORACLE)
+2025-03-08 20:00:51 - No active profile set, falling back to 1 default profile: "default"
+2025-03-08 20:00:59 - Started Hl7FhirSamplesOracleApplication in 8.896 seconds (process running for 9.661)
+2025-03-08 20:01:50 - Starting Hl7FhirSamplesOracleApplication using Java 23.0.1 with PID 17856 (C:\CursoSpring2\MicroserviciosSpringBoot\Implementando_Discovery_Service\HL7-FHIR-SAMPLES-ORACLE\target\classes started by LENOVO in C:\CursoSpring2\MicroserviciosSpringBoot\Implementando_Discovery_Service\HL7-FHIR-SAMPLES-ORACLE)
+2025-03-08 20:01:50 - No active profile set, falling back to 1 default profile: "default"
+2025-03-08 20:01:56 - Started Hl7FhirSamplesOracleApplication in 7.791 seconds (process running for 8.874)
+2025-03-08 20:35:44 - Starting Hl7FhirSamplesOracleApplication using Java 23.0.1 with PID 16720 (C:\CursoSpring2\MicroserviciosSpringBoot\Implementando_Discovery_Service\HL7-FHIR-SAMPLES-ORACLE\target\classes started by LENOVO in C:\CursoSpring2\MicroserviciosSpringBoot\Implementando_Discovery_Service\HL7-FHIR-SAMPLES-ORACLE)
+2025-03-08 20:35:44 - No active profile set, falling back to 1 default profile: "default"
+2025-03-08 20:35:50 - Started Hl7FhirSamplesOracleApplication in 6.888 seconds (process running for 7.518)
+2025-03-08 20:39:16 - Error SQL (code 20002): ORA-20002: El identificador ya está registrado en la base de datos.
+ORA-06512: en "FVALDS.FHIR_PATIENT_PKG_V_1_8_5", línea 106
+ORA-06512: en línea 1
+
+2025-03-08 20:39:16 - Error al insertar paciente: Error al ejecutar el procedimiento INSERT_PATIENT
