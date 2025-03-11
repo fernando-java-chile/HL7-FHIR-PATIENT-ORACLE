@@ -1,7 +1,0 @@
-2025-03-07 21:23:05 - Starting Hl7FhirSamplesOracleApplication using Java 23.0.1 with PID 6624 (C:\CursoSpring2\MicroserviciosSpringBoot\Implementando_Discovery_Service\HL7-FHIR-SAMPLES-ORACLE\target\classes started by LENOVO in C:\CursoSpring2\MicroserviciosSpringBoot\Implementando_Discovery_Service\HL7-FHIR-SAMPLES-ORACLE)
-2025-03-07 21:23:05 - No active profile set, falling back to 1 default profile: "default"
-2025-03-07 21:23:13 - Started Hl7FhirSamplesOracleApplication in 9.91 seconds (process running for 10.795)
-2025-03-07 21:23:55 - Error al insertar paciente: El RUT ingresado no es válido.
-2025-03-07 21:55:57 - Starting Hl7FhirSamplesOracleApplication using Java 23.0.1 with PID 14444 (C:\CursoSpring2\MicroserviciosSpringBoot\Implementando_Discovery_Service\HL7-FHIR-SAMPLES-ORACLE\target\classes started by LENOVO in C:\CursoSpring2\MicroserviciosSpringBoot\Implementando_Discovery_Service\HL7-FHIR-SAMPLES-ORACLE)
-2025-03-07 21:55:57 - No active profile set, falling back to 1 default profile: "default"
-2025-03-07 21:56:04 - Started Hl7FhirSamplesOracleApplication in 7.895 seconds (process running for 8.582)
